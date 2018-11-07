@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    min-width: 50vw;
+    max-width: 50vw;
+    min-height: 35vh;
+    max-height: 35vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body header{
+    margin-bottom:1vh;
+    margin-top:2vh;
+}
+
+body #quote{
+    margin-bottom:1vh;
+    margin-top:2vh;
+}
+
+form input{
+    margin-top:3vh;
+}
+
+form #button{
+    margin-top:4vh;
+}
+
